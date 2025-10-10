@@ -3,6 +3,7 @@
   "type": "module",
   "imports": {
     "#*": "./*.js"
+  
   },
   "scripts": {
     "start": "node --env-file=.env server.js",
